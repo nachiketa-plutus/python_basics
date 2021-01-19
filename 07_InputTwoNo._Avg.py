@@ -1,0 +1,5 @@
+a = input("Please enter the first number: ")
+b = input("Please enter the second number: ")
+a = int(a)
+b = int(b)
+avg = print("The average of both the numbers is: ", (a+b)/2)
